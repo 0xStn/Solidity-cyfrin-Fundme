@@ -2,7 +2,7 @@
 
 ![Solidity](https://img.shields.io/badge/Solidity-^0.8.18-363636?style=for-the-badge&logo=solidity)
 ![Foundry](https://img.shields.io/badge/Foundry-Testing-red?style=for-the-badge&logo=ethereum)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-💚-brightgreen?style=for-the-badge)
 
 ## 📖 Overview
 
@@ -282,7 +282,7 @@ make help        # Show available commands
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open source and available for free use. No license restrictions apply - feel free to use, modify, and distribute as needed.
 
 ## 🔗 Links
 
